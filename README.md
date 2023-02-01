@@ -1,3 +1,5 @@
+
+'
 Size: 1000 ca factor 4
 Number: 200, Sync: 0,0019403, Async:  0,0842946
 Number: 400, Sync: 0,0033585, Async:  0,0210329
@@ -67,3 +69,4 @@ Number: 4000, Sync: 1,8463338, Async:  37,7140593
 Size: 1000000 ca factor 150
 Number: 200, Sync: 0,9612366, Async:  150,5102664
 Number: 400, Sync: 2,0015199, Async:  298,7527469
+'
