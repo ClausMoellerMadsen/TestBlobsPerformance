@@ -1,4 +1,9 @@
 
+
+#Kørsel ved forskellige størrelser
+
+Tabel er blevet truncated i mellem hver kørsel
+
 ```
 Size: 1000 ca factor 4
 Number: 200, Sync: 0,0019403, Async:  0,0842946
